@@ -1,7 +1,11 @@
 # Classification-Project
 Business Objective:
                     The variable to be predicted is categorical (no disease, suspect disease, hepatitis c, fibrosis, cirrhosis). Therefore, this is a classification project.
-Data Set Details: The number of instances (rows) in the data set is 615, and the number of variables (columns) is 13. Nearly all input variables are numeric-valued except one, Sex, which is binary, and most of them represent measurements from blood and urine analysis. The following list summarizes the variables information:
+                    
+                    
+                    
+Data Set Details:
+                             The number of instances (rows) in the data set is 615, and the number of variables (columns) is 13. Nearly all input variables are numeric-valued except one, Sex, which is binary, and most of them represent measurements from blood and urine analysis. The following list summarizes the variables information:
 category(diagnose): No disease, suspect disease, hepatitis c, fibrosis or cirrhosis.
 age: (0-100). The normal ranges change depending on the age.
 sex: (f or m). The normal ranges change depending on the sex.
